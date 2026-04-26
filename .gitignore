@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+miracl_corpus_cache.jsonl
+doc_embeddings*.npz

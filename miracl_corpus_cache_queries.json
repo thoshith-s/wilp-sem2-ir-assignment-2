@@ -1,0 +1,317 @@
+[
+  {
+    "query_id": "EN01",
+    "query": "Where is the fault line for Hawaii located?",
+    "language": "en",
+    "relevant_doc_ids": [
+      "29098601#0"
+    ],
+    "original_qid": "1766",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "EN02",
+    "query": "Who is the protagonist in Boogiepop Phantom?",
+    "language": "en",
+    "relevant_doc_ids": [
+      "298549#18",
+      "5993973#1"
+    ],
+    "original_qid": "2924",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "EN03",
+    "query": "Who is the female lead in The Last House on the Left?",
+    "language": "en",
+    "relevant_doc_ids": [
+      "21001056#0",
+      "461335#0",
+      "461335#10"
+    ],
+    "original_qid": "1413",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "EN04",
+    "query": "On what TV network did Scooby-Doo first air?",
+    "language": "en",
+    "relevant_doc_ids": [
+      "37287#2",
+      "2610234#0"
+    ],
+    "original_qid": "910",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "EN05",
+    "query": "What does Dragoon mean?",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2449525#68",
+      "8767#7",
+      "8767#8"
+    ],
+    "original_qid": "568",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "EN06",
+    "query": "When did the Korean War end?",
+    "language": "en",
+    "relevant_doc_ids": [
+      "41597812#7",
+      "16772#4",
+      "19403947#53",
+      "12067906#4",
+      "247273#2",
+      "14821179#11",
+      "2284275#11"
+    ],
+    "original_qid": "1220",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "EN07",
+    "query": "What kind of barrels is wine aged in?",
+    "language": "en",
+    "relevant_doc_ids": [
+      "2755475#22",
+      "748887#17",
+      "37468361#15",
+      "47567946#41",
+      "5797851#5",
+      "3815735#3",
+      "904269#20",
+      "748887#0"
+    ],
+    "original_qid": "3085",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "EN08",
+    "query": "Where did Jehovah's Witnesses originate?",
+    "language": "en",
+    "relevant_doc_ids": [
+      "13949533#3",
+      "3897876#0"
+    ],
+    "original_qid": "3120",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "EN09",
+    "query": "How well rated was Fright Night?",
+    "language": "en",
+    "relevant_doc_ids": [
+      "1123132#31",
+      "27756811#14",
+      "4909628#1"
+    ],
+    "original_qid": "1448",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "EN10",
+    "query": "Where is the Super Sentai Series from?",
+    "language": "en",
+    "relevant_doc_ids": [
+      "634116#0",
+      "634116#6",
+      "634116#24",
+      "634116#11",
+      "173486#26",
+      "634116#1"
+    ],
+    "original_qid": "1051",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "ES01",
+    "query": "¿Cuál es el sinónimo de conífera?",
+    "language": "es",
+    "relevant_doc_ids": [
+      "3246803#1"
+    ],
+    "original_qid": "232222#0",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "ES02",
+    "query": "¿Cuáles son las 3 principales ciudades de Irlanda?",
+    "language": "es",
+    "relevant_doc_ids": [
+      "63104#54",
+      "3422053#25",
+      "302012#7"
+    ],
+    "original_qid": "7654659#0",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "ES03",
+    "query": "¿Cuáles son las películas más exitosas de Tim Burton?",
+    "language": "es",
+    "relevant_doc_ids": [
+      "4844012#42",
+      "59420#18",
+      "59420#32",
+      "59420#1",
+      "59420#19",
+      "59420#29"
+    ],
+    "original_qid": "43247#0",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "ES04",
+    "query": "¿Qué tipo de animal es Maurice de Madagascar?",
+    "language": "es",
+    "relevant_doc_ids": [
+      "1908740#18",
+      "3651981#11"
+    ],
+    "original_qid": "715515#0",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "ES05",
+    "query": "¿Cuáles fueron las consecuencias del régimen nazi para Polonia?",
+    "language": "es",
+    "relevant_doc_ids": [
+      "8866778#6",
+      "977022#0",
+      "522495#18",
+      "9018100#34",
+      "5077750#0",
+      "4988268#10",
+      "148617#7",
+      "4073941#12",
+      "90566#134",
+      "148617#4"
+    ],
+    "original_qid": "426634#0",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "FR01",
+    "query": "Dans quel continent se trouve la Côte d’Ivoire?",
+    "language": "fr",
+    "relevant_doc_ids": [
+      "11056227#0",
+      "11047159#0",
+      "786#0",
+      "248558#0",
+      "3680822#10",
+      "786#191"
+    ],
+    "original_qid": "3261797#0",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "FR02",
+    "query": "Quelle est la plus grande île du monde?",
+    "language": "fr",
+    "relevant_doc_ids": [
+      "11958#9"
+    ],
+    "original_qid": "3489648#0",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "FR03",
+    "query": "Quelle est la philosophie de Kierkegaard?",
+    "language": "fr",
+    "relevant_doc_ids": [
+      "1058788#33",
+      "18445#80",
+      "18445#63"
+    ],
+    "original_qid": "12075675#0",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "FR04",
+    "query": "Quelles sont les émissions télévisées les plus populaires en Chine?",
+    "language": "fr",
+    "relevant_doc_ids": [
+      "6761724#2",
+      "824802#7",
+      "3455199#3"
+    ],
+    "original_qid": "6731888#0",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "FR05",
+    "query": "Quels outils sont utilisés en télécommunication?",
+    "language": "fr",
+    "relevant_doc_ids": [
+      "1675893#19",
+      "442432#38",
+      "13280516#8"
+    ],
+    "original_qid": "2921614#0",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "DE01",
+    "query": "Welche Mechanismen helfen Computern, menschliche Sprache zu verstehen?",
+    "language": "de",
+    "relevant_doc_ids": [
+      "5664#61",
+      "819#3",
+      "11312863#67",
+      "254675#15"
+    ],
+    "original_qid": "831602#0",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "DE02",
+    "query": "Was ist der Unterschied zwischen einem PC-Spiel und einem Handyspiel?",
+    "language": "de",
+    "relevant_doc_ids": [
+      "343466#5",
+      "153030#40"
+    ],
+    "original_qid": "1619147#0",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "DE03",
+    "query": "Wann wurde die DDR aufgelöst?",
+    "language": "de",
+    "relevant_doc_ids": [
+      "3914653#8",
+      "10034148#4"
+    ],
+    "original_qid": "5814400#0",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "DE04",
+    "query": "Wie heißt die Legende von Dädalus und Ikarus?",
+    "language": "de",
+    "relevant_doc_ids": [
+      "591929#4"
+    ],
+    "original_qid": "10833479#0",
+    "relevant_corpus_ids": []
+  },
+  {
+    "query_id": "DE05",
+    "query": "Wie viele Polen gibt es in Deutschland heutzutage?",
+    "language": "de",
+    "relevant_doc_ids": [
+      "35531#14",
+      "1594823#14",
+      "1594823#2",
+      "9158#14",
+      "1594823#11",
+      "1594823#10"
+    ],
+    "original_qid": "8456848#0",
+    "relevant_corpus_ids": []
+  }
+]
